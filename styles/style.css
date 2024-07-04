@@ -1,0 +1,18 @@
+*{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    background-color: grey;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px blue, 0 0 5px green, 0 0 5px skyblue;
+}
+p{
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px 5px blue, 0 0 5px green, 0 0 5px skyblue;
+}
