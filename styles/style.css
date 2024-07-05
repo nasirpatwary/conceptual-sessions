@@ -49,4 +49,10 @@ h3 {
     border-radius: 5px;
     margin: auto;
     text-align: center;
+    transition: all 5s;
+    cursor: pointer;
+}
+#text:hover {
+    background-color: green;
+    border: 2px solid green;
 }
